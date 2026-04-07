@@ -87,7 +87,7 @@ public class Main {
         return "{"
                 + "\"appDate\": \"\","
                 + "\"doctorNo\": \"D1292\","
-                + "\"hosCode\": \"H03\","
+                + "\"hosCode\": \"H01\","
                 + "\"offset\": \"\","
                 + "\"page\": \"\","
                 + "\"price\": \"\","
